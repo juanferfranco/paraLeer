@@ -24,6 +24,6 @@
 
   Mixed student teams are the core of CBL. Whenever possible student teams are made up of students from various backgrounds, levels and study programs. They work together with researcher, entrepreneurs or municipalities to find solutions to current challenges. In CBL teachers are explicitly referred to as learners. Teachers role is to be a guide and facilitator for the students to support with knowledge and practical advice about:
 
-  own research topic
-  leadership and cooperation
-  recruiting sponsors and communication of results.
+  * own research topic.
+  * leadership and cooperation.
+  * recruiting sponsors and communication of results.
